@@ -1,6 +1,6 @@
 ## Recreating Our Social Media App
 
-![]{http://192.169.195.161/wp-content/uploads/2014/02/smm1.png}
+![](http://192.169.195.161/wp-content/uploads/2014/02/smm1.png)
 
 ### Setting up Our Database
 
