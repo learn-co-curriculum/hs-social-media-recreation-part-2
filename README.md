@@ -1,5 +1,7 @@
 ## Recreating Our Social Media App
 
+![]{http://192.169.195.161/wp-content/uploads/2014/02/smm1.png}
+
 ### Setting up Our Database
 
 Today's Goal is to setup a database for your social media app to save all of your awesome content. 
