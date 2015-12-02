@@ -37,3 +37,5 @@ tweet.save
 + Add a page that displays all of the content for a user based on the user. For example, going to "www.fwitter.com/users/ianstwitterhandle" will display all of the tweets where the username is "ianstwitterhandle", "www.fwitter.com/users/taylorswift13" will display all of the tweets where the username is "taylorswift13", etc. You'll need: 
   * Dynamic URLs - check out the Sinatra documentation on routes [here](http://www.sinatrarb.com/intro.html#Routes)
   * ActiveRecord's where method - takes a condition as an argument and returns an array of items where the condition is true. [ActiveRecord's where](http://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-where)
+
+<a href='https://learn.co/lessons/hs-social-media-recreation-part-2' data-visibility='hidden'>View this lesson on Learn.co</a>
