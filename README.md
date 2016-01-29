@@ -38,4 +38,4 @@ tweet.save
   * Dynamic URLs - check out the Sinatra documentation on routes [here](http://www.sinatrarb.com/intro.html#Routes)
   * ActiveRecord's where method - takes a condition as an argument and returns an array of items where the condition is true. [ActiveRecord's where](http://api.rubyonrails.org/classes/ActiveRecord/QueryMethods.html#method-i-where)
 
-<a href='https://learn.co/lessons/hs-social-media-recreation-part-2' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-social-media-recreation-part-2' title='Recreating Our Social Media App'>Recreating Our Social Media App</a> on Learn.co and start learning to code for free.</p>
